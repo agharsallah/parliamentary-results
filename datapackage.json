@@ -1,0 +1,22 @@
+{
+    "title": "2014 Parliamentary elections results ",
+    "name": "2014 Parliamentary elections results ",
+    "description": "Partial results from the parliamentary elections  manually entered by volunteers from Mourakiboun organization",
+    "version": "0.1.0",
+    "licenses": [
+        {
+            "id": "odc-pddl",
+            "url": "http://opendatacommons.org/licenses/pddl/",
+            "name": "Public Domain Dedication and License"
+        }
+    ],
+    "resources": [
+        {
+            "name": "par",
+            "path": "data/par.csv",
+            "mediatype": "text/csv",
+            "bytes": 732138
+           
+        }
+    ]
+}
